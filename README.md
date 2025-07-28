@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Mukul Jitender Kumar
 
-<!--
-**Mu88kul/Mu88kul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 16 y/o Developer | Poetry Enthusiast | Crypto Curious | Always Learning
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cool tools with Python and real-time crypto data
+- 🌱 Learning Python, JavaScript, and building desktop + web apps
+- ✍️ I write poetry in Urdu & English
+- ⚡ I love turning ideas into working apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Tkinter](https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu88kul&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu88kul&layout=compact&theme=tokyonight)
